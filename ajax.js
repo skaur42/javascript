@@ -1,7 +1,7 @@
 //========================================================================================
 // Contains AJAX 2 methods:
 // ajaxRequest: Execute a full AJAX request/response communication
-// ajaxLoad:    Use ajaxRequest() in sync mode to load a url into an html element
+// ajaxLoad:    Use ajaxRequest() in sync mode to load a url into an html element 
 //========================================================================================
 // ajaxRequest: Execute an AJAX HTTP request from a server
 //        args: url      - the url that you want to call
